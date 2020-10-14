@@ -1,0 +1,1 @@
+uvicorn --port 5000 --host 192.168.1.17  main:app --reload
